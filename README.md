@@ -1,5 +1,4 @@
 # calculatorv2
 
-A new Flutter application.
-
+simple calculator created in flutter
 
